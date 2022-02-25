@@ -20,3 +20,5 @@ Fazendo os updates com o composer
 ```
 $ composer update
 ```
+
+Editando
